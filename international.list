@@ -688,7 +688,7 @@ IP-CIDR,173.194.0.0/16,Google
 IP-CIDR,216.73.80.0/20,Google
 IP-CIDR,74.125.0.0/16,Google
 IP6-CIDR,2620:120:e000::/40,Google
-
+#
 # NAME: Telegram
 HOST-SUFFIX,comments.app,Telegram
 HOST-SUFFIX,contest.com,Telegram
@@ -727,7 +727,7 @@ IP-ASN,44907,Telegram
 IP-ASN,59930,Telegram
 IP-ASN,62014,Telegram
 IP-ASN,6204,Telegram
-
+#
 # NAME: Twitter
 HOST-SUFFIX,ads-twitter.com,Twitter
 HOST-SUFFIX,periscope.tv,Twitter
@@ -756,7 +756,7 @@ IP-CIDR,199.96.56.0/21,Twitter
 IP-CIDR,202.160.128.0/22,Twitter
 IP-CIDR,209.237.192.0/19,Twitter
 IP-CIDR,69.195.160.0/19,Twitter
-
+#
 # NAME: Facebook
 HOST-SUFFIX,aboutfacebook.com,Facebook
 HOST-SUFFIX,accessfacebookfromschool.com,Facebook
@@ -1337,7 +1337,7 @@ IP-CIDR,66.220.144.0/20,Facebook
 IP-CIDR,69.171.224.0/19,Facebook
 IP-CIDR,69.63.176.0/20,Facebook
 IP-CIDR,74.119.76.0/22,Facebook
-
+#
 # NAME: Instagram
 HOST-SUFFIX,cdninstagram.com,Instagram
 HOST-SUFFIX,instagr.am,Instagram
