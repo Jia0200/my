@@ -1343,3 +1343,9 @@ HOST-SUFFIX,cdninstagram.com,Instagram
 HOST-SUFFIX,instagr.am,Instagram
 HOST-SUFFIX,instagram.com,Instagram
 HOST-KEYWORD,instagram,Instagram
+#
+# NAME: Tumblr
+HOST-SUFFIX,tmblr.co,Tumblr
+HOST-SUFFIX,tumblr.co,Tumblr
+HOST-SUFFIX,tumblr.com,Tumblr
+#
